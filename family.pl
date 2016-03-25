@@ -11,7 +11,7 @@
 	is_male(tony).
 	is_male(hanry).
 	is_male(danny).
-    is_male(mark).
+	is_male(mark).
 	is_male(bob).
 	is_male(ken).
 	is_male(bang).
